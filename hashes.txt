@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mirada de fuego puro
+
+This log tracks the cryptographic history and versioning for the song **Mirada de fuego puro** (mirada-de-fuego-puro).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T16:30:04.240137 | `v1` | `94d065e455391bddbc8a011a886c56aad9f755d07c9972fb3b6ad20c4940031b` | `02b35a5facfdbd134e8ef0335ff7105233b7b0b65db0052f887c5e1d51ef87dd` | `2026-06-17_mirada-de-fuego-puro-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
