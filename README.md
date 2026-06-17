@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mirada-de-fuego-puro/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Mirada de fuego puro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-de-fuego-puro/) |
+| **Get License** | [Official Music Licensing for Mirada de fuego puro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-de-fuego-puro/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa mirada de fuego puro me quema la piel
+> Toda tu esencia divina me sabe a miel
+> No puedo escapar, me tienes bajo control
+> Bailando en la sombra, perdiendo la razón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
